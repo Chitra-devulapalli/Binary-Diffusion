@@ -1,1 +1,1 @@
-Add Viz
+# Binary Diffusion
